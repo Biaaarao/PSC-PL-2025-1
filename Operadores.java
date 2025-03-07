@@ -42,6 +42,12 @@ public class Operadores {
         h/=5;
         h%=5;
 
+        System.out.println(h+=5);
+        System.out.println(h-=5);
+        System.out.println(h*=5);
+        System.out.println(h/=5);
+        System.out.println(h%=5);
+
 
 
 
