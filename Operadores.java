@@ -1,5 +1,4 @@
 public class Operadores {
-
     public static void main(String[] args) {
         //operadores aritméticos
 
@@ -35,13 +34,13 @@ public class Operadores {
     
         //Operadores de Atribuição 
 
-        int g = 10;
+        int h = 10;
         
-        g+=5; // g = g + 5 
-        g-=5;
-        g*=5;
-        g/=5;
-        g%=5;
+        h+=5; // g = g + 5 
+        h-=5;
+        h*=5;
+        h/=5;
+        h%=5;
 
 
 
